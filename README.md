@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KRCratan
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in Cyber Security and Web development.
 - 🌱 I’m currently learning Programming and Hacking
 
 <!---
