@@ -6,7 +6,7 @@
 - 📊 Recent projects include:
   - **Knee Osteoarthritis Detection** using **Machine Learning**  
   - **Parkinson's Disease Data Analysis** using a **Raspberry Pi** and **DNNs**  
-- 🏆 **Best NSS Volunteer 2024** and district-level **cricket bowler**  
+- 🏆 **Best NSS Volunteer 2024**   
 - 🌏 Open to **internship** and **job opportunities** globally, especially in **Japan**  
 
 🚀 Always curious, always learning. Let's **collaborate** on exciting tech projects!  
