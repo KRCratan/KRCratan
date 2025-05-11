@@ -1,15 +1,23 @@
-# 👋 Hi, I’m Ratan (@KRCratan)  
+# 👋 Hi, I’m Ratan (@KRCratan)
 
-- 🎓 Final-year **B.Tech student** at **KIIT University**, specializing in **Electronics and Computer Science**  
+- 💻 **Software Engineer** with a background in **Electronics and Computer Science**  
+- 🎓 Recent **B.Tech graduate** from **KIIT University**  
 - 👀 Passionate about **Cybersecurity**, **Web Development**, and **Data Science**  
-- 🌱 Currently learning **Programming** and **Hacking**, with hands-on experience in **Machine Learning** and **Deep Neural Networks**  
-- 📊 Recent projects include:
-  - **Knee Osteoarthritis Detection** using **Machine Learning**  
-  - **Parkinson's Disease Data Analysis** using a **Raspberry Pi** and **DNNs**  
-- 🏆 **Best NSS Volunteer 2024**   
-- 🌏 Open to **internship** and **job opportunities** globally, especially in **India** and **Japan**  
+- 🌱 Continuously learning **Programming**, **Hacking**, and building projects in **Machine Learning** and **Deep Neural Networks**  
 
-🚀 Always curious, always learning. Let's **collaborate** on exciting tech projects!  
+## 📊 Projects
+
+- 🦵 **Knee Osteoarthritis Detection** using **Machine Learning**  
+- 🧠 **Parkinson's Disease Data Analysis** using **Raspberry Pi** and **Deep Neural Networks**  
+
+## 🏆 Achievements
+
+- 🏅 **Best NSS Volunteer 2024**  
+- 🌏 Open to **internship** and **job opportunities** globally — especially in **India** 🇮🇳 and **Japan** 🇯🇵  
+
+---
+
+🚀 Always curious, always learning. Let’s **collaborate** on exciting tech projects!
 
 <!---
 KRCratan/KRCratan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
