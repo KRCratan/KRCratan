@@ -7,8 +7,8 @@
 
 ## 📊 Projects
 
-- 🦵 **Knee Osteoarthritis Detection** using **Machine Learning**  
-- 🧠 **Parkinson's Disease Data Analysis** using **Raspberry Pi** and **Deep Neural Networks**  
+- 🩺 **Knee Osteoarthritis Classification** using **Machine Learning**  
+- ☎️ **Python Call Center Logging** — SQL-integrated call log management system  
 
 ## 🏆 Achievements
 
